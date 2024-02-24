@@ -3,16 +3,7 @@ from AccelBrainBeat.brainbeat.binaural_beat import BinauralBeat
 
 
 frequencies = [
-    {'left': 420, 'right': 460},
-    {'left': 421, 'right': 461},
-    {'left': 422, 'right': 462},
-    {'left': 423, 'right': 463},
-    {'left': 424, 'right': 464},
-    {'left': 425, 'right': 465},
-    {'left': 426, 'right': 466},
-    {'left': 427, 'right': 467},
-    {'left': 428, 'right': 468},
-    {'left': 429, 'right': 469},
+    {'left': 666, 'right': 706},
 ]
 
 
